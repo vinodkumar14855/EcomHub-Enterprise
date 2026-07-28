@@ -1,2 +1,2 @@
-# KashmirHub-Enterprise
-Enterprise documentation repository for KashmirHub Digital Commerce Platform
+# EcomHub-Enterprise
+Enterprise documentation repository for EcomHub Digital Commerce Platform
